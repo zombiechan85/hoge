@@ -1,1 +1,1 @@
-hoge
+hoge is great
